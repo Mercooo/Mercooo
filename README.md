@@ -1190,4 +1190,3 @@ Don't forget to give the project a star! Thanks again!
 - Malak Eldardeery
 - Sama Yasser
 - Mansour Mohamed
-- Alaa Ali
